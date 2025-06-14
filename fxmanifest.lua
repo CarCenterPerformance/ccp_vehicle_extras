@@ -3,7 +3,7 @@ game 'gta5'
 
 description 'Fahrzeug Extras Menü mit ox_lib'
 
-author 'DeinName'
+author 'CarCenterPerformance'
 lua54 'yes'
 
 shared_scripts {
